@@ -1,0 +1,69 @@
+/* navbar */
+nav {
+  position: absolute;
+  height: 8vh;
+  left: 5.27%;
+  right: -0.13%;
+  bottom: 93%;
+}
+
+.title {
+  position: absolute;
+  left: 3%;
+  top: 1vw;
+  font-family: "ProximaNova";
+  font-size: 1em;
+  line-height: 122%;
+  color: #1a1919;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+.teams {
+  position: relative;
+  left: 18%;
+  right: 71.98%;
+  top: 1vw;
+  font-family: "ProximaNova";
+  font-size: 1em;
+  line-height: 122%;
+  color: #000000;
+}
+
+.vertical {
+  position: absolute;
+  left: 15%;
+  top: 0%;
+  bottom: 0%;
+  border: 1px solid #e2e2e2;
+}
+
+.notifContainer {
+  position: absolute;
+  left: 81%;
+  top: 1vw;
+  height: 3vw;
+  overflow: hidden;
+}
+
+/* Hello, John */
+
+.john {
+  position: absolute;
+  height: 5vh;
+  left: 86%;
+  top: 2.5vw;
+}
+
+.photo {
+  position: absolute;
+  left: 92%;
+  top: 1.5vw;
+  border-radius: 18px;
+}
+
+.caret {
+  position: absolute;
+  left: 95%;
+  top: 2vw;
+}

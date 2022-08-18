@@ -1,0 +1,58 @@
+/* sidebar bg */
+aside {
+  position: absolute;
+  left: 0%;
+  right: 94;
+  top: 0%;
+  bottom: -0.08%;
+  background: #042235;
+  box-shadow: inset 0px 1px 3px rgba(0, 0, 0, 0.5),
+    inset -4px 0px 4px rgba(2, 15, 24, 0.569466);
+}
+
+.logoContainer {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  height: 8vh;
+  overflow: hidden;
+}
+
+.campaignContainer {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  height: 8vh;
+  overflow: hidden;
+}
+
+.teamsContainer {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  height: 8vh;
+  background-color: #2995da;
+  overflow: hidden;
+}
+
+.contactsContainer {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  height: 8vh;
+  overflow: hidden;
+}
+.reportsContainer {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  height: 8vh;
+  overflow: hidden;
+}
+.helpContainer {
+  position: relative;
+  left: 0%;
+  top: 50%;
+  height: 8vh;
+  overflow: hidden;
+}

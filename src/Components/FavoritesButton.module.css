@@ -1,0 +1,6 @@
+.button {
+  border: none;
+  grid-column-start: 4;
+  margin-left: 2vh;
+  background: none;
+}
